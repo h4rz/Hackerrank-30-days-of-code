@@ -5,17 +5,20 @@ Thirty days of code by Hacker rank is aimed at improving your coding skills by c
 ## Progress
 
 **:white_check_mark: ⇒ Completed**
+
 **:x: ⇒ Invalid/Cannot be implemented**
+
+> Note - Clicking on :white_check_mark: will redirect you to the solution file. 
 
 | Day | Problem Statement                                                                                               | Python | Kotlin | Swift | C |
 |-----|-----------------------------------------------------------------------------------------------------------------|--------|--------|-------|---|
-| 00  | [Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem)                                   |    <center>:white_check_mark:</center>    |        |       |   |
-| 01  | [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem)                                       |    <center>:white_check_mark:</center>    |        |       |   |
-| 02  | [Operators](https://www.hackerrank.com/challenges/30-operators/problem)                                         |    <center>:white_check_mark:</center>    |        |       |   |
-| 03  | [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem)      |    <center>:white_check_mark:</center>    |        |       |   |
-| 04  | [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)                        |   <center>:white_check_mark:</center>     |        |       |   |
-| 05  | [Loops](https://www.hackerrank.com/challenges/30-loops/problem)                                                 |   <center>:white_check_mark:</center>     |        |       |   |
-| 06  | [Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem)                                    |    <center>:white_check_mark:</center>    |        |       |   |
+| 00  | [Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem)                                   |    <center>[:white_check_mark:](python/day0.py)</center>    |        |       |   |
+| 01  | [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem)                                       |    <center>[:white_check_mark:](python/day1.py)</center>    |        |       |   |
+| 02  | [Operators](https://www.hackerrank.com/challenges/30-operators/problem)                                         |    <center>[:white_check_mark:](python/day2.py)</center>    |        |       |   |
+| 03  | [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem)      |    <center>[:white_check_mark:](python/day3.py)</center>    |        |       |   |
+| 04  | [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)                        |   <center>[:white_check_mark:](python/day4.py)</center>     |        |       |   |
+| 05  | [Loops](https://www.hackerrank.com/challenges/30-loops/problem)                                                 |   <center>[:white_check_mark:](python/day5.py)</center>     |        |       |   |
+| 06  | [Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem)                                    |    <center>[:white_check_mark:](python/day6.py)</center>    |        |       |   |
 | 07  | [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem)                                               |        |        |       |   |
 | 08  | [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)                 |        |        |       |   |
 | 09  | [Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem)                                       |        |        |       |   |
