@@ -19,8 +19,8 @@ Thirty days of code by Hacker rank is aimed at improving your coding skills by c
 | 04  | [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)                        | [:white_check_mark:](python/day4.py) |
 | 05  | [Loops](https://www.hackerrank.com/challenges/30-loops/problem)                                                 | [:white_check_mark:](python/day5.py) |
 | 06  | [Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem)                                    | [:white_check_mark:](python/day6.py) |
-| 07  | [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem)                                               |                                      |
-| 08  | [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)                 |                                      |
+| 07  | [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem)                                               | [:white_check_mark:](python/day7.py) |
+| 08  | [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)                 | [:white_check_mark:](python/day8.py)                                       |
 | 09  | [Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem)                                       |                                      |
 | 10  | [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem)                               |                                      |
 | 11  | [2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem)                                         |                                      |
